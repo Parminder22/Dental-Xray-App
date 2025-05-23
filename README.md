@@ -17,15 +17,4 @@ The app allows multiple image uploads, runs object detection on dental X-rays vi
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- Docker installed
-- Node.js and npm (for frontend development)
-- Python 3.11+ (for backend development)
-
-### Environment Variables
-
-Create a `.env` file in the `backend/` folder with the following variables:
-
+## Parminder Singh - 2022UIC3611
