@@ -1,0 +1,19 @@
+# General
+.env
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Python
+*.py[cod]
+.Python
+venv/
+
+# Logs
+*.log
+
+# Others
+.DS_Store
